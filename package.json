@@ -12,14 +12,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bplok20010/nex-utils.git"
+        "url": "git+https://github.com/bplok20010/html-to-vnode.git"
     },
     "author": "nobo<nobo.zhou@foxmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bplok20010/nex-utils/issues"
+        "url": "https://github.com/bplok20010/html-to-vnode/issues"
     },
-    "homepage": "https://github.com/bplok20010/nex-utils#readme",
+    "homepage": "https://github.com/bplok20010/html-to-vnode",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-plugin-external-helpers": "^6.22.0",

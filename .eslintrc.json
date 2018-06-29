@@ -28,6 +28,7 @@
         "no-mixed-spaces-and-tabs": ["off", false],
         "no-console": [
             "warn"
-        ]
+        ],
+        "no-undef": ["warn"]
     }
 }
